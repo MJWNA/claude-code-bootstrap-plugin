@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-local",
+  "owner": {
+    "name": "Ronnie Meagher"
+  },
+  "metadata": {
+    "description": "Local marketplace for the bootstrap plugin",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bootstrap",
+      "source": "./",
+      "description": "Workspace quality system — bootstrap, audit, reflect, and maintain Claude Code configuration with self-learning hooks",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ronnie Meagher"
+      }
+    }
+  ]
+}
